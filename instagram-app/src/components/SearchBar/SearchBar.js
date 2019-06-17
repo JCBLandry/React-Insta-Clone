@@ -1,6 +1,6 @@
 import React from 'react';
 // import IGLogo from '../../assets/iglogo.png';
-// import './SearchBar.css';
+import './SearchBar.css';
 
 const SearchBar = props => {
   return (
